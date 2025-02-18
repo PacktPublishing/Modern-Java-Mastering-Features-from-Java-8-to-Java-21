@@ -1,0 +1,15 @@
+---------------
+Serving Folders|
+---------------
+http://127.0.0.1:8000/explore-latest-java-features/src/main/resources/
+
+---------------------
+Retrieve All Movies:|
+---------------------
+http://127.0.0.1:8000/explore-latest-java-features/src/main/resources/movies.json
+
+
+----------------------
+Retrieve Movie By id: |
+----------------------
+http://127.0.0.1:8000/explore-latest-java-features/src/main/resources/movie_by_id.json
